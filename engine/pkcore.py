@@ -1,5 +1,6 @@
 import os
 import sys
+from pathlib import Path
 script_dir = os.path.dirname(os.path.abspath(__file__))
 sys.path.append(script_dir)
 import pkcrypto as cx 
@@ -27,7 +28,7 @@ class cypherfile():
             return failme(f'unable to decrypt file {e}')
             
         rawdata = cx.decrypt(file_data, password)
-        with open(dest, 'wb') as fh:
+        with open(Path(dest), 'wb') as fh:
             fh.write(rawdata['data'])
         
         ret['data'] = f'wrote {dest}...'
@@ -184,6 +185,7 @@ class backup():
                     folder = util.albumcheck(album_references, {}, uuid, skip=skip_albums)
                 else:
                     folder = util.albumcheck(album_references, albums, uuid, skip=skip_albums)
+                    print(f'|{folder.strip()}|')
                 os.makedirs(os.path.join(destination, folder), exist_ok=True)
 
                 # checks, variables then decrypts
