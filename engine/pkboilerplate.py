@@ -27,9 +27,9 @@ class util():
                     album_name = albums[album_uuid]
                 # put in album uuid-named album if the actual name is missing or corrupted in the backup metadata
                 except Exception:
-                    return album_uuid
-
-                return album_name  # return the album
+                    return album_uuid.strip()
+                print(f'|{album_uuid}|')
+                return album_name.strip()  # return the album
         except Exception:
             return "unsorted"
 
@@ -40,10 +40,10 @@ class util():
             if skip:
                 return f"{uuid}.{filetypes[uuid]}"
             else:
-                return photos[uuid]
+                return photos[uuid].strip()
         # use mimetypes to assume the filetype if no backup metadata is found
         except Exception:
-            return uuid
+            return uuid.strip()
 
     # create a file if it doesn't exist
     def touch(pathway):
