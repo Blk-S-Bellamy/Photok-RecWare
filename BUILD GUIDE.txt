@@ -1,6 +1,4 @@
 # The following has been tested on Windows 11, 10
-# run the following commands while in the main directory to build the program from source
-
 # install python3 from python.org
 # make sure to add python to path and enable longpaths too (checkboxes in python installer)
 
