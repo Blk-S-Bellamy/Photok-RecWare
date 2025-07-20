@@ -10,5 +10,5 @@ pyinstaller-hooks-contrib==2025.6
 PyQt6==6.9.1
 PyQt6-Qt6==6.9.1
 PyQt6_sip==13.10.2
-python-magic==0.4.27
+python-magic-bin
 qt-material==2.17

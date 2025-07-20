@@ -1,0 +1,14 @@
+# The following has been tested on Windows 11, 10
+# run the following commands while in the main directory to build the program from source
+
+# install python3 from python.org
+# make sure to add python to path and enable longpaths too (checkboxes in python installer)
+
+# in cmd, run these command in the same directory as the gui.py file
+python3 -m venv "path\to\folder\venv
+venv/Scripts/acdativate.bin
+pip install -r requirements.txt
+pip install pyinstaller
+pyinstaller --onefile --noconsole --add-data "icons:icons" gui.py  # (.exe, single binary file)
+
+# the .exe will be in the dist folder and will run as a standalone utility now
