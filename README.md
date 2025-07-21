@@ -24,6 +24,14 @@ Written in [Python](https://www.python.org/), the program is released for multip
 [![Nuthin](https://img.shields.io/badge/Android-Unsupported-red)](https://github.com/Blk-S-Bellamy/Photok-RecWare/releases)
 [![Nuthin](https://img.shields.io/badge/IOS-Unsupported-red)](https://github.com/Blk-S-Bellamy/Photok-RecWare/releases)
 
+# Turn Cryptography back to to Kitties!
+With only a few presses, you can decrypt only the useful files in your locked backup. By default, thumbnails are skipped, file names, and albums are restored. If you are not quite sure of your password for a backup, you can test using the orange button by the password box. Overall, the guide can tell you anything else you may have questions on. Good luck!
+
+<img width="958" height="248" alt="crypttokitty" src="https://github.com/user-attachments/assets/fbd97b8b-7b10-41ef-a7f8-5ed028e32b3d" />
+
+---
+# Support
+
 <a href="https://ko-fi.com/bksbellamy">
   <img src="https://github.com/user-attachments/assets/a52b3d0c-24e4-47c7-87e6-9681b4110f03" width="100" height="50" alt="Button Image" />
 </a>
@@ -34,11 +42,6 @@ Written in [Python](https://www.python.org/), the program is released for multip
 ```
 XMR: 87Fc45hdTL6SSZ3ZrDGptrAPZWLs57Yo5j4kvCFp3mtm4kF6KTaLwycbApWgyj1mrTFoKFq49G9A1ftFAFrFvbaiQJbmp98
 ```
-
-# Turn Cryptography back to to Kitties!
-With only a few presses, you can decrypt only the useful files in your locked backup. By default, thumbnails are skipped, file names, and albums are restored. If you are not quite sure of your password for a backup, you can test using the orange button by the password box. Overall, the guide can tell you anything else you may have questions on. Good luck!
-
-<img width="958" height="248" alt="crypttokitty" src="https://github.com/user-attachments/assets/fbd97b8b-7b10-41ef-a7f8-5ed028e32b3d" />
 
 ---
 
