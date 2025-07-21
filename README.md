@@ -23,9 +23,17 @@ Written in [Python](https://www.python.org/), the program is released for multip
 [![Linux](https://img.shields.io/badge/Linux-Most-yellow)](https://github.com/Blk-S-Bellamy/Photok-RecWare/releases/tag/Deb-0.1)
 [![Nuthin](https://img.shields.io/badge/Android-Unsupported-red)](https://github.com/Blk-S-Bellamy/Photok-RecWare/releases)
 [![Nuthin](https://img.shields.io/badge/IOS-Unsupported-red)](https://github.com/Blk-S-Bellamy/Photok-RecWare/releases)
-<img width="984" height="269" alt="xmr done" src="https://github.com/user-attachments/assets/a73692f2-18dd-4504-8ad0-b83bb9ff0dd3" />
 
+<a href="https://ko-fi.com/bksbellamy">
+  <img src="https://github.com/user-attachments/assets/a52b3d0c-24e4-47c7-87e6-9681b4110f03" width="100" height="50" alt="Button Image" />
+</a>
+<a href="https://www.getmonero.org/">
+  <img src="https://github.com/user-attachments/assets/a73692f2-18dd-4504-8ad0-b83bb9ff0dd3" width="100" height="50" alt="Button Image" />
+</a>
 
+```
+XMR: 87Fc45hdTL6SSZ3ZrDGptrAPZWLs57Yo5j4kvCFp3mtm4kF6KTaLwycbApWgyj1mrTFoKFq49G9A1ftFAFrFvbaiQJbmp98
+```
 
 # Turn Cryptography back to to Kitties!
 With only a few presses, you can decrypt only the useful files in your locked backup. By default, thumbnails are skipped, file names, and albums are restored. If you are not quite sure of your password for a backup, you can test using the orange button by the password box. Overall, the guide can tell you anything else you may have questions on. Good luck!
