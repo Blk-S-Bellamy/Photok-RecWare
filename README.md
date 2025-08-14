@@ -46,6 +46,7 @@ XMR: 87Fc45hdTL6SSZ3ZrDGptrAPZWLs57Yo5j4kvCFp3mtm4kF6KTaLwycbApWgyj1mrTFoKFq49G9
 ---
 
 # Compiling From Source
+(all versions contain a "BUILD" file with build instructions for that platform)
 The release versions of the program are single binary files containing compiled Python3 code and any media used as graphical assets. This is for portability, dependability, and due to the easy of distribution. Pyinstaller is used in order to create the application for Windows and Linux and instructions can be found in the source code folder for each release and here:
 
 ### Debian
