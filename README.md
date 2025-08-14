@@ -14,7 +14,7 @@ Written in [Python](https://www.python.org/), the program is released for multip
 
 <img width="585" height="300" alt="platform demo" src="https://github.com/user-attachments/assets/76433bf2-0a9b-4aef-bf81-8611daa35d02" />
 
-*This program is __not__ associated with [Photok](https://github.com/leonlatsch/Photok/blob/develop/README.md) for android but serves to enable data recovery from Photok-encrypted backups and files. 0% of Photok's source code has been used and eveything has been written from the ground up in Python*
+*This program is __not__ associated with [Photok](https://github.com/leonlatsch/Photok/blob/develop/README.md) for android but serves to enable data recovery from Photok-encrypted backups and files. 0% of Photok's source code has been used and everything has been written from the ground up in Python*
 
 ---
 [![Windows 10](https://img.shields.io/badge/Windows_10-Yes-green)](https://github.com/Blk-S-Bellamy/Photok-RecWare/releases/tag/Win-0.1)
