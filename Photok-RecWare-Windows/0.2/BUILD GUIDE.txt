@@ -1,0 +1,9 @@
+# The following has been tested on Debian, some libraries may need to change to compile
+# run the following commands while in the main directory to build the program from source
+
+python -m venv venv
+
+pip install -r requirements.txt
+
+pyinstaller --add-data "icons:icons" --add-data "filepicker/icons:filepicker/icons" --noconsole --name "RecWare-Photok" gui.py  # (.exe, binary+directory)
+pyinstaller --onefile --add-data "icons:icons" --add-data "filepicker/icons:filepicker/icons" --noconsole --name "RecWare-Photok"  gui.py  # (.exe, binary+single executable)
